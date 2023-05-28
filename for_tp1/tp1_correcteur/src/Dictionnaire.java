@@ -9,7 +9,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//twt
 public class Dictionnaire extends Component {
+
+
     ArrayList<String> mots = new ArrayList<>();
     // contenir une structure de données, contenant l’ensemble de mots connus.
 
